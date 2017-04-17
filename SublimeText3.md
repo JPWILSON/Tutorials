@@ -28,3 +28,18 @@ highlighting to the next instance of the word, continuously.
 Can add new folders that werent part of your project and then, if you want, save them together as a 
 sublime project: **Select Project > Save Project as** and this will save this collection of files and folders 
 as a .sublime-project folder
+
+### Command Palette **ctrl+shift+P**
+
+* There are a whole range of amazing things that can be done with this command palette - these are just some egs. 
+* Instead of **Edit>Convert Case> Upper Case**, can just **ctrl+shift+p > conve...** till you find it 
+* Reverse order of a bunch of lines: **ctrl+shift+p > rever...** then select **Permute Lines: Reverse** 
+* Reverse order of a bunch of lines: **ctrl+shift+p > sort...** 
+* Encode special characters (char escaping for security): **ctrl+shift+p > encode...** 
+* Set syntax: **ctrl+shift+p > set Sy...(enter for set syntax) > html>  ** 
+
+### Tut 5: Package Managers (Installing community created addons)
+* Before being able install the packages, we need to install the package manager. We are looking for 
+[package control](https://packagecontrol.io/installation "This link may change with time")
+
+Eg: color highlighter for css - first
